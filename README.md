@@ -51,6 +51,6 @@ Feel free to reach out—I’d love to hear about your next project!
 ## How to reach me
 
 - 📧 Email: [alexandredesfosses@hotmail.com](alexandredesfosses@hotmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/alexandre-desfosses/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-desfosses/)
 
 ---
