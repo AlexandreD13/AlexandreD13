@@ -3,9 +3,12 @@
   A Software Developper from Québec, Canada <img src="https://flagcdn.com/w20/ca.png" width="20" alt="🇨🇦"/>
 </h3>
 
+<!--
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexandred13&label=Profile%20views&color=0e75b6&style=flat" alt="alexandred13" />
 </p>
+-->
 
 ---
 
